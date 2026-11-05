@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "latest": "0.1.0",
+  "minimumSupported": "0.1.0",
+  "minimumReason": "The first release of the PAIMX Assistant worker.",
+  "downloads": {
+    "macos": "https://github.com/zhengst-king/paimx-assistant-releases/releases/download/v0.1.0/PAIMX-Assistant-0.1.0.dmg"
+  },
+  "sha256": {
+    "macos": "13b1472baf45400e0c509d35cc3b78917ec5f247170841b32dbfc9bc548ef3cc"
+  }
+}
