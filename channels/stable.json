@@ -1,16 +1,16 @@
 {
   "channel": "stable",
-  "latest": "0.5.0",
+  "latest": "0.6.0",
   "minimumSupported": "0.1.0",
   "minimumReason": "The first release of the PAIMX Assistant worker.",
   "downloads": {
-    "macos": "https://github.com/zhengst-king/paimx-assistant-releases/releases/download/v0.5.0/PAIMX-Assistant-0.5.0.dmg",
-    "linux": "https://github.com/zhengst-king/paimx-assistant-releases/releases/download/linux-0.5.0/paimx-assistant-0.5.0-linux-x64.tar.gz",
-    "windows": "https://github.com/zhengst-king/paimx-assistant-releases/releases/download/windows-0.5.0/paimx-assistant-0.5.0-windows-x64.zip"
+    "macos": "https://github.com/zhengst-king/paimx-assistant-releases/releases/download/v0.6.0/PAIMX-Assistant-0.6.0.dmg",
+    "linux": "https://github.com/zhengst-king/paimx-assistant-releases/releases/download/linux-0.6.0/paimx-assistant-0.6.0-linux-x64.tar.gz",
+    "windows": "https://github.com/zhengst-king/paimx-assistant-releases/releases/download/windows-0.6.0/paimx-assistant-0.6.0-windows-x64.zip"
   },
   "sha256": {
-    "macos": "fe8c3bc088f84166986d28a7f6dfa7c9285c2a06a41960c4664954578431dad9",
-    "linux": "5db6b066442cb730c28d34340289cb69ae361d454df62bdf7c595cae612fcae0",
-    "windows": "729473f2a2415f964b667e81df022508631951a39b56249a1920eaa600f59893"
+    "macos": "6afefa93f3d7970216c0561697af6deb3125a210244be930b63ebdebc09de728",
+    "linux": "78a346fdebe0de0046dd3964ea81e403ab51cfa2509c61319da6cd0e34b3cc42",
+    "windows": "048742025decdceb1896bc1af65de5957bbe0f4fd2efde31ee39ee4689b286c8"
   }
 }
